@@ -1,0 +1,1 @@
+a:3:{s:10:"index.html";a:1:{i:0;s:66:"/resources/themes/nobears/gfx/favicon/apple-touch-icon-120x120.png";}s:20:"nl/cookiebeleid.html";a:1:{i:0;s:66:"/resources/themes/nobears/gfx/favicon/apple-touch-icon-120x120.png";}s:20:"nl/over-nobears.html";a:1:{i:0;s:66:"/resources/themes/nobears/gfx/favicon/apple-touch-icon-120x120.png";}}
